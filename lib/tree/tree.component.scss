@@ -1,0 +1,32 @@
+/* all this will be moved when ngx-section is replaced */
+
+.ngx-section .ngx-section-header {
+    background: none !important;
+    color: #000 !important;
+    line-height: 14px !important;
+    margin-top: 0.5em !important;
+    height: 14px !important;
+    padding-left: 1em !important;
+}
+
+.ngx-section .ngx-section-header h1 {
+    line-height: 14px !important;
+}
+
+.ngx-section {
+    font-size: 12px !important;
+    margin-bottom: 0 !important;
+}
+
+.ngx-section-content {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 1em !important;
+}
+
+.ngx-section .ngx-section-header .ngx-section-toggle {
+    font-size: 10px !important;
+    line-height: 14px !important;
+    padding: 0 !important;
+    left: 0 !important;
+}
